@@ -1,0 +1,31 @@
+{
+  "name": "ganteng_mantapcuy",
+  "version": "1.1.5",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/komandan123/mantapcuy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/komandan123/mantapcuy/issues"
+  },
+  "homepage": "https://github.com/komandan123/mantapcuy#readme",
+  "dependencies": {
+    "mantapcuy": "^1.0.0",
+    "string-width": "^5.1.2",
+    "string-width-cjs": "npm:string-width@^4.2.0",
+    "strip-ansi": "^7.0.1",
+    "strip-ansi-cjs": "npm:strip-ansi@^6.0.1",
+    "wrap-ansi": "^8.1.0",
+    "wrap-ansi-cjs": "npm:wrap-ansi@^7.0.0"
+  },
+  "devDependencies": {
+    "next": "^1.0.0"
+  },
+  "description": ""
+}
